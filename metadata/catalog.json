@@ -1,0 +1,27 @@
+{
+  "metadata_version": "0.1.0",
+  "schema": 1,
+  "generated": "seed",
+  "active_generation": "seed",
+  "product": "nodejs",
+  "node_major": 26,
+  "target": {
+    "distribution": "centos-stream",
+    "version": "10",
+    "repository": "epel",
+    "architecture": "x86_64",
+    "format": "rpm"
+  },
+  "stable": {
+    "available": false,
+    "latest": null,
+    "items": []
+  },
+  "preview": {
+    "available": false,
+    "retention": 30,
+    "latest": null,
+    "items": []
+  },
+  "images": []
+}

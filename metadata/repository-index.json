@@ -1,0 +1,150 @@
+{
+  "metadata_version": "0.1.0",
+  "schema": 1,
+  "generated": "2026-11-19T00:23:17.000Z",
+  "directories": {
+    "/": {
+      "path": "/",
+      "entries": [
+        {
+          "name": ".generations",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T14:59:47.479Z",
+          "href": "/.generations/"
+        },
+        {
+          "name": ".knit",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T04:42:12.527Z",
+          "href": "/.knit/"
+        },
+        {
+          "name": "keys",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T14:53:38.917Z",
+          "href": "/keys/"
+        },
+        {
+          "name": "metadata",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T15:00:17.318Z",
+          "href": "/metadata/"
+        },
+        {
+          "name": "nodejs26.repo",
+          "type": "file",
+          "size": 214,
+          "modified": "2026-11-19T14:53:38.951Z",
+          "href": "/nodejs26.repo",
+          "sha256": "4a98ab7be9f44d9f69c520f02ccd08cf56eb5854a4515fc1b77f640a146dc945"
+        },
+        {
+          "name": "README.md",
+          "type": "file",
+          "size": 991,
+          "modified": "2026-11-19T00:09:41.063Z",
+          "href": "/README.md",
+          "sha256": "be989fd4e86c6f9c0da134721285d831161dbc98e076c8acf2143e9f697c6e2f"
+        }
+      ],
+      "total": 6
+    },
+    "/.generations/": {
+      "path": "/.generations/",
+      "entries": [
+        {
+          "name": "seed",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T14:59:47.483Z",
+          "href": "/.generations/seed/"
+        }
+      ],
+      "total": 1
+    },
+    "/.generations/seed/": {
+      "path": "/.generations/seed/",
+      "entries": [
+        {
+          "name": "generation.json",
+          "type": "file",
+          "size": 116,
+          "modified": "2026-11-19T14:59:47.485Z",
+          "href": "/.generations/seed/generation.json",
+          "sha256": "b52e8732b415ba07886060c2199c9cc043e652afeabd128a6b593c55a671b580"
+        }
+      ],
+      "total": 1
+    },
+    "/.knit/": {
+      "path": "/.knit/",
+      "entries": [
+        {
+          "name": "deploy.yaml",
+          "type": "file",
+          "size": 165,
+          "modified": "2026-11-19T04:42:12.530Z",
+          "href": "/.knit/deploy.yaml",
+          "sha256": "c0eede7f4cf1185d17233765a9f0e99f503e479ad7d0107523e9c02b7d8bf543"
+        }
+      ],
+      "total": 1
+    },
+    "/keys/": {
+      "path": "/keys/",
+      "entries": [
+        {
+          "name": "RPM-GPG-KEY-ELIWARE-NODEJS",
+          "type": "file",
+          "size": 843,
+          "modified": "2026-11-19T14:53:38.929Z",
+          "href": "/keys/RPM-GPG-KEY-ELIWARE-NODEJS",
+          "sha256": "760ea1153f819767f1dbcc80f81bfa8053d4c7811e7e6c69fc15ec33825ead44"
+        }
+      ],
+      "total": 1
+    },
+    "/metadata/": {
+      "path": "/metadata/",
+      "entries": [
+        {
+          "name": "active-generation.json",
+          "type": "file",
+          "size": 116,
+          "modified": "2026-11-19T14:59:47.492Z",
+          "href": "/metadata/active-generation.json",
+          "sha256": "b52e8732b415ba07886060c2199c9cc043e652afeabd128a6b593c55a671b580"
+        },
+        {
+          "name": "catalog.json",
+          "type": "file",
+          "size": 495,
+          "modified": "2026-11-19T14:59:47.503Z",
+          "href": "/metadata/catalog.json",
+          "sha256": "0d4d2fd0483b9f701d1c2e701372c7f0b877364a45ee2f0dda13092b9fae253d"
+        },
+        {
+          "name": "README.md",
+          "type": "file",
+          "size": 417,
+          "modified": "2026-11-19T00:08:15.422Z",
+          "href": "/metadata/README.md",
+          "sha256": "ca5ac8b9d84ddf336553b5bc926da2d7bf9d0b3eca96f02c7918a6336df9a4c8"
+        },
+        {
+          "name": "release-manifest.json",
+          "type": "file",
+          "size": 271,
+          "modified": "2026-11-19T15:00:09.289Z",
+          "href": "/metadata/release-manifest.json",
+          "sha256": "c49f055017c93b698b890daf647a6ff20558d892fc15d03c16225da1d499b765"
+        }
+      ],
+      "total": 4
+    }
+  }
+}
