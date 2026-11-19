@@ -1,0 +1,24 @@
+{
+  "metadata_version": "0.1.0",
+  "schema": 1,
+  "generation_id": "node-v26.13.1-el10-x86_64-20261119161944885",
+  "node_version": "26.13.1",
+  "image": {
+    "repository": "ghcr.io/eliware/centos10-node26",
+    "tag": "26.13.1",
+    "digest": "sha256:ea899b6de30c18c807839600a0cb33fe2a4f8be3525ccb0cffc7ad16c943fec1",
+    "base_image": "quay.io/centos/centos:stream10",
+    "base_image_digest": "quay.io/centos/centos@sha256:a266f7ae08c4b3f5d0eaaa8a500201d40d260ecdfa81e49991fe8d27699d69e9",
+    "rpm_sha256": "c86b0102a4af59057b293e6a5a49244a2263403e9dfff8e18d8f30ff910995b6",
+    "validation": "passed",
+    "provenance_path": "metadata/provenance/images/nodejs26-26.13.1.json"
+  },
+  "local_image_id": "sha256:ea899b6de30c18c807839600a0cb33fe2a4f8be3525ccb0cffc7ad16c943fec1",
+  "source_sha256": "5c063e46bab0fbc1c17cc445d7ff129cbdcd0471be6ed83b6ab864f8143bc864",
+  "build": {
+    "base_image": "quay.io/centos/centos:stream10",
+    "base_image_digest": "quay.io/centos/centos@sha256:a266f7ae08c4b3f5d0eaaa8a500201d40d260ecdfa81e49991fe8d27699d69e9"
+  },
+  "validation_path": "metadata/validation/image.json",
+  "generated": "2026-11-19T16:19:44.885Z"
+}

@@ -1,0 +1,15 @@
+{
+  "metadata_version": "0.1.0",
+  "schema": 1,
+  "node_version": "26.13.1",
+  "target": "centos-stream-10-x86_64",
+  "image": "ghcr.io/eliware/centos10-node26",
+  "tag": "26.13.1",
+  "digest": "sha256:ea899b6de30c18c807839600a0cb33fe2a4f8be3525ccb0cffc7ad16c943fec1",
+  "base_image": "quay.io/centos/centos:stream10",
+  "base_image_digest": "quay.io/centos/centos@sha256:a266f7ae08c4b3f5d0eaaa8a500201d40d260ecdfa81e49991fe8d27699d69e9",
+  "smoke_test": "passed",
+  "registry_push": "passed",
+  "status": "passed",
+  "generated": "2026-11-19T16:19:44.885Z"
+}

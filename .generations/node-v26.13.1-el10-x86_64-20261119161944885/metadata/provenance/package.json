@@ -1,0 +1,33 @@
+{
+  "metadata_version": "0.1.0",
+  "schema": 1,
+  "generation_id": "node-v26.13.1-el10-x86_64-20261119161944885",
+  "node_version": "26.13.1",
+  "source": {
+    "url": "https://nodejs.org/dist/v26.13.1/node-v26.13.1-linux-x64.tar.xz",
+    "file": "node-v26.13.1-linux-x64.tar.xz",
+    "sha256": "5c063e46bab0fbc1c17cc445d7ff129cbdcd0471be6ed83b6ab864f8143bc864",
+    "signature_url": "https://nodejs.org/dist/v26.13.1/SHASUMS256.txt.sig",
+    "signing_key_fingerprint": "5BE8A3F6C8A5C01D106C0AD820B1A390B168D356",
+    "verified_at": "2026-11-19T16:18:12.704Z"
+  },
+  "npm": {
+    "version": "12.2.3",
+    "file": "npm-12.2.3.tgz",
+    "url": "https://registry.npmjs.org/npm/-/npm-12.2.3.tgz",
+    "integrity": "sha512-ovmNRRe76Jvcp1E6iOePQ6H9Zr4XMOrqgfaeGNhtRvP3XSl2Lo/a9C1N5/jRlLLrsqCem/omgGdZHpZ5a6yn1Q=="
+  },
+  "package": {
+    "name": "eliware-node26",
+    "epoch": null,
+    "version": "26.13.1",
+    "release": "1.npm12.2.3.el10",
+    "architecture": "x86_64",
+    "npm_version": "12.2.3",
+    "path": "el10/x86_64/stable/eliware-node26-26.13.1-1.npm12.2.3.el10.x86_64.rpm",
+    "sha256": "c86b0102a4af59057b293e6a5a49244a2263403e9dfff8e18d8f30ff910995b6",
+    "size": 39122000
+  },
+  "validation_path": "metadata/validation/package.json",
+  "generated": "2026-11-19T16:19:13.332Z"
+}

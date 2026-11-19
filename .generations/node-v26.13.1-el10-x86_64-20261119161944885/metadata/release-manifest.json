@@ -1,0 +1,107 @@
+{
+  "metadata_version": "0.1.0",
+  "schema": 1,
+  "generation_id": "node-v26.13.1-el10-x86_64-20261119161944885",
+  "generated": "2026-11-19T16:19:44.885Z",
+  "signed": true,
+  "publication_ready": true,
+  "catalog_sha256": "ff8d6ebea63035a3e3bab15a48dc17f6d7b041431555f63f01ef8b8e874ee420",
+  "repository_metadata_sha256": "8ea9bc6499dcd6cff539d5f1110d9a7ddbb124b5671e6b47baf91d59a9a1e0b1",
+  "files": [
+    {
+      "path": "el10/x86_64/stable/eliware-node26-26.13.1-1.npm12.2.3.el10.x86_64.rpm",
+      "sha256": "c86b0102a4af59057b293e6a5a49244a2263403e9dfff8e18d8f30ff910995b6",
+      "size": 39122000
+    },
+    {
+      "path": "el10/x86_64/stable/repodata/29c271af0fc64089c604e0a2f9ecdba9dc0a91f2ce7c04d0744ae1eee601f282-filelists.xml.zst",
+      "sha256": "29c271af0fc64089c604e0a2f9ecdba9dc0a91f2ce7c04d0744ae1eee601f282",
+      "size": 28639
+    },
+    {
+      "path": "el10/x86_64/stable/repodata/58fea2cc2328d84a197a2cb418f0f4d17926d13b6ff053c031a75df8be32f5c3-other.xml.zst",
+      "sha256": "58fea2cc2328d84a197a2cb418f0f4d17926d13b6ff053c031a75df8be32f5c3",
+      "size": 350
+    },
+    {
+      "path": "el10/x86_64/stable/repodata/fb6ae1c7cfc159d98a7380a20cb336f65e54aa226ef4108792b19b1107cadd45-primary.xml.zst",
+      "sha256": "fb6ae1c7cfc159d98a7380a20cb336f65e54aa226ef4108792b19b1107cadd45",
+      "size": 1597
+    },
+    {
+      "path": "el10/x86_64/stable/repodata/repomd.xml",
+      "sha256": "8ea9bc6499dcd6cff539d5f1110d9a7ddbb124b5671e6b47baf91d59a9a1e0b1",
+      "size": 1556
+    },
+    {
+      "path": "el10/x86_64/stable/repodata/repomd.xml.asc",
+      "sha256": "42c5657ef0156372009a44e6f63e62f0f82d34f7e696db103aad4cd37fe776a2",
+      "size": 228
+    },
+    {
+      "path": "el10/x86_64/stable/SHA256SUMS",
+      "sha256": "ad1f626e8a867451e707b6bf48fb27819a705cecd11d8b4b01341b3785726a09",
+      "size": 117
+    },
+    {
+      "path": "generation.json",
+      "sha256": "2b480b2a2c388e2b161c4e4e9cb3fb01ebf599ef8569a2e93c4513c26705b930",
+      "size": 155
+    },
+    {
+      "path": "keys/RPM-GPG-KEY-ELIWARE-NODEJS",
+      "sha256": "760ea1153f819767f1dbcc80f81bfa8053d4c7811e7e6c69fc15ec33825ead44",
+      "size": 843
+    },
+    {
+      "path": "metadata/active-generation.json",
+      "sha256": "2b480b2a2c388e2b161c4e4e9cb3fb01ebf599ef8569a2e93c4513c26705b930",
+      "size": 155
+    },
+    {
+      "path": "metadata/catalog.json",
+      "sha256": "ff8d6ebea63035a3e3bab15a48dc17f6d7b041431555f63f01ef8b8e874ee420",
+      "size": 6159
+    },
+    {
+      "path": "metadata/provenance/images/nodejs26-26.13.1.json",
+      "sha256": "028fdd5bd9fb26f0fac4812e024cf38bac53e21aff5b8b70984d8d4f44da1290",
+      "size": 1159
+    },
+    {
+      "path": "metadata/provenance/images/nodejs26-26.13.1.json.asc",
+      "sha256": "f74cbbdbe5ab5af757f6f526f76b1c6ed6bed4d826db6279a9b0380818b8f930",
+      "size": 228
+    },
+    {
+      "path": "metadata/provenance/package.json",
+      "sha256": "70f0f46a50dd60395732a36ac8b72acc71004a7689f06f20666cdb47c6a65130",
+      "size": 1291
+    },
+    {
+      "path": "metadata/provenance/package.json.asc",
+      "sha256": "3214fec205945c594b0f765587aa2fcbdb7dac7099c56680f12e5350967dbb23",
+      "size": 228
+    },
+    {
+      "path": "metadata/releases/nodejs26.json",
+      "sha256": "a523579dbc727b6a683aa2b60fd3bd7eac8e2b7ce9973cdc15a597dbb18e057b",
+      "size": 2157
+    },
+    {
+      "path": "metadata/validation/image.json",
+      "sha256": "c8e31fcf8fc28529bdf7317223ef7fb3759151666616f6907f1eda10000ed964",
+      "size": 560
+    },
+    {
+      "path": "metadata/validation/package.json",
+      "sha256": "99816d8522163640700579d5a203f25d48dc8e8c46ea608bec1eae53873a8228",
+      "size": 348
+    },
+    {
+      "path": "nodejs26.repo",
+      "sha256": "4a98ab7be9f44d9f69c520f02ccd08cf56eb5854a4515fc1b77f640a146dc945",
+      "size": 214
+    }
+  ]
+}

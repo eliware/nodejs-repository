@@ -1,0 +1,311 @@
+{
+  "metadata_version": "0.1.0",
+  "schema": 1,
+  "generated": "2026-11-19T16:19:44.885Z",
+  "directories": {
+    "/": {
+      "path": "/",
+      "entries": [
+        {
+          "name": "el10",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:44.903Z",
+          "href": "/el10/"
+        },
+        {
+          "name": "generation.json",
+          "type": "file",
+          "size": 155,
+          "modified": "2026-11-19T16:19:46.477Z",
+          "href": "/generation.json",
+          "sha256": "2b480b2a2c388e2b161c4e4e9cb3fb01ebf599ef8569a2e93c4513c26705b930"
+        },
+        {
+          "name": "keys",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.373Z",
+          "href": "/keys/"
+        },
+        {
+          "name": "metadata",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.333Z",
+          "href": "/metadata/"
+        },
+        {
+          "name": "nodejs26.repo",
+          "type": "file",
+          "size": 214,
+          "modified": "2026-11-19T16:19:46.181Z",
+          "href": "/nodejs26.repo",
+          "sha256": "4a98ab7be9f44d9f69c520f02ccd08cf56eb5854a4515fc1b77f640a146dc945"
+        }
+      ],
+      "total": 5
+    },
+    "/el10/": {
+      "path": "/el10/",
+      "entries": [
+        {
+          "name": "x86_64",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:44.909Z",
+          "href": "/el10/x86_64/"
+        }
+      ],
+      "total": 1
+    },
+    "/el10/x86_64/": {
+      "path": "/el10/x86_64/",
+      "entries": [
+        {
+          "name": "stable",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.082Z",
+          "href": "/el10/x86_64/stable/"
+        }
+      ],
+      "total": 1
+    },
+    "/el10/x86_64/stable/": {
+      "path": "/el10/x86_64/stable/",
+      "entries": [
+        {
+          "name": "eliware-node26-26.13.1-1.npm12.2.3.el10.x86_64.rpm",
+          "type": "file",
+          "size": 39122000,
+          "modified": "2026-11-19T16:19:46.041Z",
+          "href": "/el10/x86_64/stable/eliware-node26-26.13.1-1.npm12.2.3.el10.x86_64.rpm",
+          "sha256": "c86b0102a4af59057b293e6a5a49244a2263403e9dfff8e18d8f30ff910995b6"
+        },
+        {
+          "name": "repodata",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.149Z",
+          "href": "/el10/x86_64/stable/repodata/"
+        },
+        {
+          "name": "SHA256SUMS",
+          "type": "file",
+          "size": 117,
+          "modified": "2026-11-19T16:19:46.076Z",
+          "href": "/el10/x86_64/stable/SHA256SUMS",
+          "sha256": "ad1f626e8a867451e707b6bf48fb27819a705cecd11d8b4b01341b3785726a09"
+        }
+      ],
+      "total": 3
+    },
+    "/el10/x86_64/stable/repodata/": {
+      "path": "/el10/x86_64/stable/repodata/",
+      "entries": [
+        {
+          "name": "29c271af0fc64089c604e0a2f9ecdba9dc0a91f2ce7c04d0744ae1eee601f282-filelists.xml.zst",
+          "type": "file",
+          "size": 28639,
+          "modified": "2026-11-19T16:19:46.112Z",
+          "href": "/el10/x86_64/stable/repodata/29c271af0fc64089c604e0a2f9ecdba9dc0a91f2ce7c04d0744ae1eee601f282-filelists.xml.zst",
+          "sha256": "29c271af0fc64089c604e0a2f9ecdba9dc0a91f2ce7c04d0744ae1eee601f282"
+        },
+        {
+          "name": "58fea2cc2328d84a197a2cb418f0f4d17926d13b6ff053c031a75df8be32f5c3-other.xml.zst",
+          "type": "file",
+          "size": 350,
+          "modified": "2026-11-19T16:19:46.127Z",
+          "href": "/el10/x86_64/stable/repodata/58fea2cc2328d84a197a2cb418f0f4d17926d13b6ff053c031a75df8be32f5c3-other.xml.zst",
+          "sha256": "58fea2cc2328d84a197a2cb418f0f4d17926d13b6ff053c031a75df8be32f5c3"
+        },
+        {
+          "name": "fb6ae1c7cfc159d98a7380a20cb336f65e54aa226ef4108792b19b1107cadd45-primary.xml.zst",
+          "type": "file",
+          "size": 1597,
+          "modified": "2026-11-19T16:19:46.097Z",
+          "href": "/el10/x86_64/stable/repodata/fb6ae1c7cfc159d98a7380a20cb336f65e54aa226ef4108792b19b1107cadd45-primary.xml.zst",
+          "sha256": "fb6ae1c7cfc159d98a7380a20cb336f65e54aa226ef4108792b19b1107cadd45"
+        },
+        {
+          "name": "repomd.xml",
+          "type": "file",
+          "size": 1556,
+          "modified": "2026-11-19T16:19:46.141Z",
+          "href": "/el10/x86_64/stable/repodata/repomd.xml",
+          "sha256": "8ea9bc6499dcd6cff539d5f1110d9a7ddbb124b5671e6b47baf91d59a9a1e0b1"
+        },
+        {
+          "name": "repomd.xml.asc",
+          "type": "file",
+          "size": 228,
+          "modified": "2026-11-19T16:19:46.156Z",
+          "href": "/el10/x86_64/stable/repodata/repomd.xml.asc",
+          "sha256": "42c5657ef0156372009a44e6f63e62f0f82d34f7e696db103aad4cd37fe776a2"
+        }
+      ],
+      "total": 5
+    },
+    "/keys/": {
+      "path": "/keys/",
+      "entries": [
+        {
+          "name": "RPM-GPG-KEY-ELIWARE-NODEJS",
+          "type": "file",
+          "size": 843,
+          "modified": "2026-11-19T16:19:46.380Z",
+          "href": "/keys/RPM-GPG-KEY-ELIWARE-NODEJS",
+          "sha256": "760ea1153f819767f1dbcc80f81bfa8053d4c7811e7e6c69fc15ec33825ead44"
+        }
+      ],
+      "total": 1
+    },
+    "/metadata/": {
+      "path": "/metadata/",
+      "entries": [
+        {
+          "name": "active-generation.json",
+          "type": "file",
+          "size": 155,
+          "modified": "2026-11-19T16:19:46.469Z",
+          "href": "/metadata/active-generation.json",
+          "sha256": "2b480b2a2c388e2b161c4e4e9cb3fb01ebf599ef8569a2e93c4513c26705b930"
+        },
+        {
+          "name": "catalog.json",
+          "type": "file",
+          "size": 6159,
+          "modified": "2026-11-19T16:19:46.394Z",
+          "href": "/metadata/catalog.json",
+          "sha256": "ff8d6ebea63035a3e3bab15a48dc17f6d7b041431555f63f01ef8b8e874ee420"
+        },
+        {
+          "name": "provenance",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.440Z",
+          "href": "/metadata/provenance/"
+        },
+        {
+          "name": "release-manifest.json",
+          "type": "file",
+          "size": 3824,
+          "modified": "2026-11-19T16:19:46.752Z",
+          "href": "/metadata/release-manifest.json",
+          "sha256": "4031edc0305082c6fed2a484716e1cea240c1c20c20da2b39f148f5673d26af6"
+        },
+        {
+          "name": "release-manifest.json.asc",
+          "type": "file",
+          "size": 228,
+          "modified": "2026-11-19T16:19:46.768Z",
+          "href": "/metadata/release-manifest.json.asc",
+          "sha256": "3d77d6139626d85353de6680680622e3cd184a9dff04490d779d1c213a097dda"
+        },
+        {
+          "name": "releases",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.257Z",
+          "href": "/metadata/releases/"
+        },
+        {
+          "name": "validation",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.435Z",
+          "href": "/metadata/validation/"
+        }
+      ],
+      "total": 7
+    },
+    "/metadata/provenance/": {
+      "path": "/metadata/provenance/",
+      "entries": [
+        {
+          "name": "images",
+          "type": "directory",
+          "size": null,
+          "modified": "2026-11-19T16:19:46.454Z",
+          "href": "/metadata/provenance/images/"
+        },
+        {
+          "name": "package.json",
+          "type": "file",
+          "size": 1291,
+          "modified": "2026-11-19T16:19:46.408Z",
+          "href": "/metadata/provenance/package.json",
+          "sha256": "70f0f46a50dd60395732a36ac8b72acc71004a7689f06f20666cdb47c6a65130"
+        },
+        {
+          "name": "package.json.asc",
+          "type": "file",
+          "size": 228,
+          "modified": "2026-11-19T16:19:46.430Z",
+          "href": "/metadata/provenance/package.json.asc",
+          "sha256": "3214fec205945c594b0f765587aa2fcbdb7dac7099c56680f12e5350967dbb23"
+        }
+      ],
+      "total": 3
+    },
+    "/metadata/provenance/images/": {
+      "path": "/metadata/provenance/images/",
+      "entries": [
+        {
+          "name": "nodejs26-26.13.1.json",
+          "type": "file",
+          "size": 1159,
+          "modified": "2026-11-19T16:19:46.445Z",
+          "href": "/metadata/provenance/images/nodejs26-26.13.1.json",
+          "sha256": "028fdd5bd9fb26f0fac4812e024cf38bac53e21aff5b8b70984d8d4f44da1290"
+        },
+        {
+          "name": "nodejs26-26.13.1.json.asc",
+          "type": "file",
+          "size": 228,
+          "modified": "2026-11-19T16:19:46.459Z",
+          "href": "/metadata/provenance/images/nodejs26-26.13.1.json.asc",
+          "sha256": "f74cbbdbe5ab5af757f6f526f76b1c6ed6bed4d826db6279a9b0380818b8f930"
+        }
+      ],
+      "total": 2
+    },
+    "/metadata/releases/": {
+      "path": "/metadata/releases/",
+      "entries": [
+        {
+          "name": "nodejs26.json",
+          "type": "file",
+          "size": 2157,
+          "modified": "2026-11-19T16:19:46.401Z",
+          "href": "/metadata/releases/nodejs26.json",
+          "sha256": "a523579dbc727b6a683aa2b60fd3bd7eac8e2b7ce9973cdc15a597dbb18e057b"
+        }
+      ],
+      "total": 1
+    },
+    "/metadata/validation/": {
+      "path": "/metadata/validation/",
+      "entries": [
+        {
+          "name": "image.json",
+          "type": "file",
+          "size": 560,
+          "modified": "2026-11-19T16:19:46.437Z",
+          "href": "/metadata/validation/image.json",
+          "sha256": "c8e31fcf8fc28529bdf7317223ef7fb3759151666616f6907f1eda10000ed964"
+        },
+        {
+          "name": "package.json",
+          "type": "file",
+          "size": 348,
+          "modified": "2026-11-19T16:19:46.205Z",
+          "href": "/metadata/validation/package.json",
+          "sha256": "99816d8522163640700579d5a203f25d48dc8e8c46ea608bec1eae53873a8228"
+        }
+      ],
+      "total": 2
+    }
+  }
+}

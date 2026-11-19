@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "node_version": "26.13.1",
+  "target": "centos-stream-10-x86_64",
+  "checks": {
+    "archive_signature": "passed",
+    "archive_checksum": "passed",
+    "rpm_build": "passed",
+    "rpm_version": "passed",
+    "npm_cli": "passed",
+    "npm_version": "12.2.3"
+  },
+  "status": "passed",
+  "generated": "2026-11-19T16:19:13.332Z"
+}
