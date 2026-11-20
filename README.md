@@ -4,8 +4,8 @@ This repository stores RPMs made from the official precompiled Node.js 26 Linux 
 
 The packaging pipeline writes signed RPM repository data, public signing keys, release catalogs, manifests, provenance, validation records, and build evidence. This repository contains publication output. It is not the package build source.
 
-Store stable RPM data below `el10/x86_64/stable/`. Store preview data below `el10/x86_64/previews/<release-id>/`. Store immutable generations below `.generations/`.
+Store stable RPM data below `el10/x86_64/stable/`. Store immutable generations below `.generations/`. The catalog marks preview releases unavailable. The pipeline does not publish preview paths or pointers.
 
 The HTTP service in [nodejs-http](https://github.com/eliware/nodejs-http) serves this tree as read-only content. Make package and release changes through the pipeline in [nodejs-packaging](https://github.com/eliware/nodejs-packaging).
 
-Read the packaging repository's [release contract](https://github.com/eliware/nodejs-packaging/blob/main/specs/release-contract.md) for the shared metadata and publication rules.
+Read the packaging repository's [release contract](https://github.com/eliware/nodejs-packaging/blob/main/docs/RELEASE-CONTRACT.md) for the shared metadata and publication rules.
