@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "title": "Install Node.js 26 on CentOS Stream 10",
+  "summary": "Install the stable Eliware Node.js 26 RPM from the signed CentOS Stream 10 EPEL repository.",
+  "platform": "rpm",
+  "channel": "stable",
+  "source": {
+    "repository": "https://nodejs.eliware.org",
+    "upstream": "https://nodejs.org/en/download"
+  },
+  "sections": [
+    {
+      "title": "Confirm the system",
+      "steps": [
+        {
+          "title": "Check the operating system and architecture",
+          "text": "Use CentOS Stream 10 on an x86_64 system.",
+          "commands": [
+            "cat /etc/centos-release",
+            "uname -m"
+          ],
+          "verify": "The release is CentOS Stream 10 and the architecture is x86_64."
+        }
+      ]
+    },
+    {
+      "title": "Install Node.js",
+      "steps": [
+        {
+          "title": "Add the Eliware repository",
+          "text": "Download the repository configuration file.",
+          "commands": [
+            "sudo curl -fsSLo /etc/yum.repos.d/nodejs26.repo https://nodejs.eliware.org/nodejs26.repo"
+          ],
+          "verify": "The repository configuration exists at /etc/yum.repos.d/nodejs26.repo."
+        },
+        {
+          "title": "Install the Node.js package",
+          "text": "Install the signed package with DNF.",
+          "commands": [
+            "sudo dnf install -y eliware-node26"
+          ],
+          "verify": "DNF completes the package installation without errors."
+        },
+        {
+          "title": "Verify the commands",
+          "text": "Check the installed Node.js and npm versions.",
+          "commands": [
+            "node --version",
+            "npm --version"
+          ],
+          "verify": "Node.js reports version 26 and npm reports version 12 or later."
+        }
+      ]
+    }
+  ]
+}

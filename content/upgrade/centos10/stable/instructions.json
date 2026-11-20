@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "title": "Upgrade Node.js 26 on CentOS Stream 10",
+  "summary": "Upgrade the stable Eliware Node.js 26 RPM from the signed CentOS Stream 10 EPEL repository.",
+  "platform": "rpm",
+  "channel": "stable",
+  "source": {
+    "repository": "https://nodejs.eliware.org",
+    "upstream": "https://nodejs.org/en/download"
+  },
+  "sections": [
+    {
+      "title": "Refresh repository metadata",
+      "steps": [
+        {
+          "title": "Refresh DNF metadata",
+          "text": "Refresh the package metadata before checking for updates.",
+          "commands": [
+            "sudo dnf makecache --refresh"
+          ],
+          "verify": "DNF refreshes metadata from the configured repositories."
+        }
+      ]
+    },
+    {
+      "title": "Upgrade Node.js",
+      "steps": [
+        {
+          "title": "Apply the package update",
+          "text": "Upgrade the Node.js package to the latest available stable build.",
+          "commands": [
+            "sudo dnf update -y eliware-node26"
+          ],
+          "verify": "DNF completes the package update without errors."
+        },
+        {
+          "title": "Verify the commands",
+          "text": "Check the installed Node.js and npm versions.",
+          "commands": [
+            "node --version",
+            "npm --version"
+          ],
+          "verify": "Node.js reports version 26 and npm reports version 12 or later."
+        }
+      ]
+    }
+  ]
+}
